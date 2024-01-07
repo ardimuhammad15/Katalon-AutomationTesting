@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_btn uiColorButton</name>
+   <tag></tag>
+   <elementGuidId>2db7031f-ecb5-4d4e-910f-0a16de29552f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.uiColorButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e07be7cc-e2ba-4977-9236-3e16dc0ac2ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn uiColorButton</value>
+      <webElementGuid>ca37b46e-0e8c-4fde-ac84-2835033f7a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>cbf3c00f-75a8-4e34-bb1c-07fb745943a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>f4f493b2-68be-4ebd-9bff-9dd82ec726e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[@class=&quot;body row1 scroll-y&quot;]/app-rpa1[1]/div[@class=&quot;row parent&quot;]/div[@class=&quot;inputFields col s6 m6 l6&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-invalid&quot;]/input[@class=&quot;btn uiColorButton&quot;]</value>
+      <webElementGuid>d3204504-dbee-4167-bd74-9e8001b3b8b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Submit']</value>
+      <webElementGuid>f9c43d21-56e2-4444-8008-440ee1044d37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/input</value>
+      <webElementGuid>414dfe13-97c8-4809-9b9c-0683877e3ccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>8b284d88-169c-40e3-9aee-989b6de24120</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
